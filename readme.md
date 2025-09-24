@@ -2,9 +2,9 @@ Horrible coding assignment by Brad Harper and Jacob Pierno - 09/23/2025
 
 The practices that we will be implementing/violating are:
 
-1.
-2.
-3.
+1. DRY Code
+2. Document your Code
+3. Clean Code
 
 Assignment description:
 
