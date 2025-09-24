@@ -16,14 +16,14 @@ if f == "Yes":
     n = input("you will be adding the two numbers, proceed?")
     if n == "yes":
 
-        o = a + b
+        o = int(a) + int(b)
 
         print(y, "'s result is:")
         print(o)
 if e == "Yes":
     n = input("you will be adding the two numbers, proceed?")
     if n == "yes":
-        i = a - b
+        i = int(a) - int(b)
         print(y, "'s result is:")
 
         print(i)
@@ -31,7 +31,7 @@ if d == "Yes":
     n = input("you will be multiplying the two numbers, proceed?")
     if n == "yes":
 
-        f = a * b
+        f = int(a) * int(b)
 
 
         print(y,"'s result is:")
@@ -41,7 +41,7 @@ if c == "Yes":
     if n == "yes":
 
         print(y, "'s result is:")
-        g = b / a
+        g = int(b) / int(a)
 
         print(g)
 
