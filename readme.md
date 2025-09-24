@@ -1,5 +1,11 @@
 Horrible coding assignment by Brad Harper and Jacob Pierno - 09/23/2025
 
+The practices that we will be implementing/violating are:
+
+1.
+2.
+3.
+
 Assignment description:
 
 In this lecture, we learned about several best-practices for coding. For this activity, you will be demonstrating your understanding of best coding practices. You will be working with a partner to create two versions of a simple program (such as a calculator, fortune teller, tic-tac-toe or anything else): one following recommended programming practices, and one that explicitly violates these practices. Both of you need to submit, but you can submit the same document. 
