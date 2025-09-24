@@ -14,7 +14,7 @@ f = input("Will you be adding")
 if f == "Yes":
 
     n = input("you will be adding the two numbers, proceed?")
-    if n == "Yes":
+    if n == "yes":
 
         o = a + b
 
@@ -22,14 +22,14 @@ if f == "Yes":
         print(o)
 if e == "Yes":
     n = input("you will be adding the two numbers, proceed?")
-    if n == "Yes":
+    if n == "yes":
         i = a - b
         print(y, "'s result is:")
 
         print(i)
 if d == "Yes":
     n = input("you will be multiplying the two numbers, proceed?")
-    if n == "Yes":
+    if n == "yes":
 
         f = a * b
 
@@ -38,7 +38,7 @@ if d == "Yes":
         print(f)
 if c == "Yes":
     n = input("you will be dividing the two numbers, proceed?")
-    if n == "Yes":
+    if n == "yes":
 
         print(y, "'s result is:")
         g = b / a
